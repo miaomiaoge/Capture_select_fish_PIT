@@ -13,6 +13,12 @@
 创建虚拟环境：
 ```
 conda create -n CeFish python=3.8 -y
- ```
-激活环境： `conda activate CeFish`
-安装依赖： `pip install -r requirement.txt`
+```
+激活环境：
+```
+conda activate CeFish`  
+```
+安装依赖： 
+```
+pip install -r requirement.txt
+```
