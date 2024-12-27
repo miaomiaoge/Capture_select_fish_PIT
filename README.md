@@ -10,6 +10,6 @@
 * 4、 文件 requirement.txt 是环境依赖；
 ## 安装使用：
       运行代码前请先安装安装anaconda，接着：
-      创建虚拟环境： `conda create -n CeFish python=3.8 -y`
-      激活环境：`conda activate CeFish`
-      安装依赖：`pip install -r requirement.txt`
+      创建虚拟环境：`conda create -n CeFish python=3.8 -y`
+      激活环境： `conda activate CeFish`
+      安装依赖： `pip install -r requirement.txt`
