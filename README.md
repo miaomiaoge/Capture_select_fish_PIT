@@ -16,9 +16,13 @@ conda create -n CeFish python=3.8 -y
 ```
 激活环境：
 ```
-conda activate CeFish`  
+conda activate CeFish
 ```
 安装依赖： 
 ```
 pip install -r requirement.txt
+```
+代码运行：
+```
+python cap_select_fish.py
 ```
