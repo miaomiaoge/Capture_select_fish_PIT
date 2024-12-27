@@ -9,10 +9,10 @@
 * 3、 文件 cap_select_fish.py 是主程序，在python环境下运行即可打开摄像头和PIT扫描器的扫码功能；
 * 4、 文件 requirement.txt 是环境依赖；
 ## 安装使用：
-      运行代码前请先安装安装anaconda，接着：
-      创建虚拟环境：
-      ```
-      conda create -n CeFish python=3.8 -y
-      ```
-      激活环境： `conda activate CeFish`
-      安装依赖： `pip install -r requirement.txt`
+运行代码前请先安装安装anaconda，接着：
+创建虚拟环境：
+```
+conda create -n CeFish python=3.8 -y
+ ```
+激活环境： `conda activate CeFish`
+安装依赖： `pip install -r requirement.txt`
